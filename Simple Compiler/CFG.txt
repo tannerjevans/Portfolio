@@ -1,0 +1,5 @@
+digraph "DirectedGraph" {
+graph [label = "CFG", labelloc=t, concentrate = true];
+"0" [ label="[[x] :=[true], [y] :=[false], [x] and[y], [output] :=[101 14 6]3]" ]
+
+}

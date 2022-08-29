@@ -1,0 +1,6 @@
+{-showing that or works-}
+
+x := true;
+y := false;
+
+output := x or y

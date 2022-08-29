@@ -1,0 +1,6 @@
+{-showing that and works-}
+
+x := true;
+y := false;
+
+output := x and y

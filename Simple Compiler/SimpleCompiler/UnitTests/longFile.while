@@ -1,0 +1,56 @@
+{- Testing everything in this file for benchmarking
+    {- nested comment
+    -}
+    expected final states:
+    x = 0
+    steps = 0
+    output = 0
+    y = 2
+    temp = true
+    z = 1
+    notTesting = 0
+    factorialOutpu = 3628800
+    tempz = 3628800
+    tempy = 0
+-}
+
+x := 0;
+steps := 10;
+--nested while loop
+while steps > 0 do
+    while steps > 2 do
+        y := (steps - 2) + ((2 - 1) * (3 + 1))
+    od;
+    steps := steps - 1
+    if y > 9 then
+        output := y
+    else
+        output := 0 --output should always be 0
+    fi
+od;
+
+--skip testing for if
+if y > 0 then
+        skip
+    else
+        skip
+fi;
+temp := 0;
+if y = 2 then
+    temp := 1
+else
+    skip
+fi;
+
+z := temp + 1 * x + temp ; --z = 1
+
+
+--factorial of 10
+tempy := 10;
+tempz := 1;
+while tempy > 1 do
+tempz := tempz * tempy;
+tempy := tempy - 1
+od;
+tempy := 0;
+factorialoutput := tempz

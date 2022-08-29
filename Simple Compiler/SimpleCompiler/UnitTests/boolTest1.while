@@ -1,0 +1,8 @@
+  {- basic bool test -}
+
+n := input;
+if n > 2 then
+  output := true
+else
+  output := false
+fi;
