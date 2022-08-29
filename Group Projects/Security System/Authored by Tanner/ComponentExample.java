@@ -11,6 +11,8 @@ public class ComponentExample extends Component {
      *
      * You can have a main which creates an object of the class within which it resides. Then
      * either main or the driver call run().
+     *
+     * @author Tanner J. Evans
      */
     /*
     public static void main(String[] args) {
