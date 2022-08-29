@@ -1,5 +1,7 @@
 #Project 4: Distributed Auction House
 
+Tanner J. Evans
+
 The Distributed Auction House is a multiple-application project that 
 utilizes remote connectivity and concurrency to implement several distinct 
 actors:
