@@ -1,0 +1,6 @@
+Thomas:   KeypadInterface
+Robin:    KeySequence, GateInterface, SpeakerInterface
+Marcos:   Database
+Jacob &
+ Tanner:  CommGateDriver
+Jared:    Timer
