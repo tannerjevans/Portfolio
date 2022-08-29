@@ -29,11 +29,11 @@
 <!-- PROJECT Documents -->
 ## Project Documents
 
-[Requirements Definition Document v3.0](https://lobogit.unm.edu/tannerjevans/CommunityGateKeypad/-/blob/master/docs/T02%20RDD%20v3.0.pdf)
+[Requirements Definition Document v3.0](https://github.com/tannerjevans/portfolio/blob/main/Community%20Gate%20Keypad/CommunityGateKeypad/docs/T02%20RDD%20v3.0.pdf)
 
-[Software Requirement Specification v2.0](https://lobogit.unm.edu/tannerjevans/CommunityGateKeypad/-/blob/master/docs/T02%20SRS%20v2.0.pdf)
+[Software Requirement Specification v2.0](https://github.com/tannerjevans/portfolio/blob/main/Community%20Gate%20Keypad/CommunityGateKeypad/docs/T02%20SRS%20v2.0.pdf)
 
-[Software Architecture Design Document v1.0](https://lobogit.unm.edu/tannerjevans/CommunityGateKeypad/-/blob/master/docs/T02%20SAD%20v1.0.pdf)
+[Software Architecture Design Document v1.0](https://github.com/tannerjevans/portfolio/blob/main/Community%20Gate%20Keypad/CommunityGateKeypad/docs/T02%20SAD%20v1.0.pdf)
 
 <!-- BUILT WITH -->
 ## Built With
